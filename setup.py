@@ -13,7 +13,7 @@ setup(name="FedFuzzClus",
       author="AI&RD Research Group",
       author_email="info@ai.dii.unipi.it",
       packages=["FedFuzzClus"],
-      install_requires=['numpy==1.26.4', 'numba==0.59.1', 'matplotlib==3.8.4', 'pandas==2.2.2', 'scikit-learn==1.4.2'],
+      install_requires=['numpy==1.26.4', 'numba==0.59.1', 'matplotlib==3.8.4', 'pandas==2.2.2', 'scikit-learn==1.5.0'],
       include_package_data=True,
       long_description=open('README.md').read()
       )
